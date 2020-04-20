@@ -1,0 +1,19 @@
+C:\Projects\design patterns\exercises\State Design Pattern\State Design Pattern\bin\Debug\State Design Pattern.exe.config
+C:\Projects\design patterns\exercises\State Design Pattern\State Design Pattern\bin\Debug\State Design Pattern.exe
+C:\Projects\design patterns\exercises\State Design Pattern\State Design Pattern\bin\Debug\State Design Pattern.pdb
+C:\Projects\design patterns\exercises\State Design Pattern\State Design Pattern\obj\Debug\State Design Pattern.csprojAssemblyReference.cache
+C:\Projects\design patterns\exercises\State Design Pattern\State Design Pattern\obj\Debug\UI\EntryPage.g.cs
+C:\Projects\design patterns\exercises\State Design Pattern\State Design Pattern\obj\Debug\UI\MainWindow.g.cs
+C:\Projects\design patterns\exercises\State Design Pattern\State Design Pattern\obj\Debug\UI\StatusPage.g.cs
+C:\Projects\design patterns\exercises\State Design Pattern\State Design Pattern\obj\Debug\App.g.cs
+C:\Projects\design patterns\exercises\State Design Pattern\State Design Pattern\obj\Debug\State Design Pattern_MarkupCompile.cache
+C:\Projects\design patterns\exercises\State Design Pattern\State Design Pattern\obj\Debug\State Design Pattern_MarkupCompile.lref
+C:\Projects\design patterns\exercises\State Design Pattern\State Design Pattern\obj\Debug\UI\EntryPage.baml
+C:\Projects\design patterns\exercises\State Design Pattern\State Design Pattern\obj\Debug\UI\MainWindow.baml
+C:\Projects\design patterns\exercises\State Design Pattern\State Design Pattern\obj\Debug\UI\StatusPage.baml
+C:\Projects\design patterns\exercises\State Design Pattern\State Design Pattern\obj\Debug\State Design Pattern.g.resources
+C:\Projects\design patterns\exercises\State Design Pattern\State Design Pattern\obj\Debug\State_Design_Pattern.Properties.Resources.resources
+C:\Projects\design patterns\exercises\State Design Pattern\State Design Pattern\obj\Debug\State Design Pattern.csproj.GenerateResource.cache
+C:\Projects\design patterns\exercises\State Design Pattern\State Design Pattern\obj\Debug\State Design Pattern.csproj.CoreCompileInputs.cache
+C:\Projects\design patterns\exercises\State Design Pattern\State Design Pattern\obj\Debug\State Design Pattern.exe
+C:\Projects\design patterns\exercises\State Design Pattern\State Design Pattern\obj\Debug\State Design Pattern.pdb
